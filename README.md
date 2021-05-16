@@ -1,4 +1,4 @@
-#nodejs-github-webhook22
+#nodejs-github-webhook
 
 ## How to use
 
